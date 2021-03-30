@@ -1,0 +1,11 @@
+*
+!CODE_OF_CONDUCT.md
+!CONTRIBUTING.md
+!.git
+!.gitattributes
+!.gitignore
+!LICENSE
+!NOTICE
+!README.md
+!std/
+!tsconfig-base.json
